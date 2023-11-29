@@ -9,7 +9,7 @@ WA.onInit().then(() => {
     console.log('Player tags: ',WA.player.tags)
 
     // Show configuration tile for editors only
-    if (WA.player.tags.includes('editor')) {
+    if (WA.player.tags.includes('admin')) {
         WA.room.showLayer('exitNorthConfig')
         WA.room.showLayer('exitSouthConfig')
         WA.room.showLayer('exitWestConfig')

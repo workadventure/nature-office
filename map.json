@@ -691,7 +691,7 @@
                 {
                  "name":"openConfigAdminTag",
                  "type":"string",
-                 "value":"editor"
+                 "value":"admin"
                 }, 
                 {
                  "name":"openConfigTrigger",
@@ -759,7 +759,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -792,7 +792,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -825,7 +825,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -858,7 +858,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -891,7 +891,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -924,7 +924,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -957,7 +957,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1514,7 +1514,7 @@
         {
          "columns":6,
          "firstgid":8601,
-         "image":"..\/huge-open-space\/src\/assets\/watileset.png",
+         "image":"src\/assets\/watileset.png",
          "imageheight":544,
          "imagewidth":204,
          "margin":1,
